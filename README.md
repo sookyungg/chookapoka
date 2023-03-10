@@ -1,4 +1,4 @@
-# 추카포카 [배포 링크 바로가기] www.chookapoka.com
+# 추카포카 | [배포 링크 바로가기➡️](https://www.chookapoka.com/) www.chookapoka.com
 
 <img width="500" alt="main-logo-image" src="https://raw.githubusercontent.com/Piro17-Project-Birthday/Piro17-Project-Birthday/main/static/img/og-image.jpg">
 <!-- <p><a href="https://www.chookapoka.com/">[배포 링크 바로가기] www.chookapoka.com</p> -->
